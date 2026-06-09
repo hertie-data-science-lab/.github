@@ -50,6 +50,7 @@ Each course has a persistent organisation containing all cohort years. Repos ins
 | [Hertie-School-NLP-E1282](https://github.com/Hertie-School-NLP-E1282) | NLP / Text as Data | GRAD-E1282 |
 | [Hertie-School-Algorithmic-Game-Theory](https://github.com/Hertie-School-Algorithmic-Game-Theory) | Algorithmic Game Theory & Governance | GRAD-E1489 |
 | [Hertie-School-Intro-Data-Science-E1339](https://github.com/Hertie-School-Intro-Data-Science-E1339) | Introduction to Data Science | GRAD-E1339 |
+| [TEST-HERTIE-COURSE](https://github.com/TEST-HERTIE-COURSE) | _Example / demo course - live PoC of the automated delivery pipeline_ | TEST-123 |
 
 ---
 
