@@ -21,14 +21,16 @@ Each course has a persistent organisation containing all cohort delivery years.
 | [Hertie-NLP-E1282](https://github.com/hertie-nlp-e1282) | NLP | GRAD-E1282 |
 | [Hertie-Algorithmic-Game-Theory](https://github.com/Hertie-School-Algorithmic-Game-Theory) | Algorithmic Game Theory & Governance | GRAD-E1489 |
 
-## Infrastructure-as-code & Tools
+## Infrastructure-as-code & Toolkits
 
 | Repo | Description |
 | --- | --- |
 | [ds01-hub](https://github.com/hertie-data-science-lab/ds01-hub) | Issue hub & documentation for ds01, the DSL research server |
 | [ds01-infra](https://github.com/hertie-data-science-lab/ds01-infra) | Source code for the the multi-user GPU container management layer |
 | [ds01-jobs](https://github.com/hertie-data-science-lab/ds01-jobs) | Remote job scheduling for the DSL server |
-| [teaching-toolkit](https://github.com/hertie-data-science-lab/dsl-teaching-toolkit) | Official course delivery toolkit for faculty & TAs to run DSL-related GitHub courses |
+| [teaching-toolkit](https://github.com/hertie-data-science-lab/dsl-teaching-toolkit) | E2e course delivery toolkit for faculty & TAs to run GitHub courses |
+| [dsl-jekyll-theme](https://github.com/hertie-data-science-lab/dsl-jekyll-theme) | Shared Jekyll theme for public facing websites & deployed GitHub pages |
+| [course-website-template](https://github.com/hertie-data-science-lab/course-website-template) | Feature-rich and easy-to-use website template for academic courses |
 
 ---
 
@@ -36,7 +38,7 @@ Each course has a persistent organisation containing all cohort delivery years.
 
 | Repo | Description |
 | --- | --- |
-| [teaching-toolkit](https://github.com/hertie-data-science-lab/dsl-teaching-toolkit) | Official course delivery toolkit for faculty & TAs to run DSL-related GitHub courses |
+| [teaching-toolkit](https://github.com/hertie-data-science-lab/dsl-teaching-toolkit) | E2e course delivery toolkit for faculty & TAs to run GitHub courses  |
 | [thesis-template-2026](https://github.com/hertie-data-science-lab/thesis-template-2026) | Unofficial Hertie thesis template (Typst) |
 | [colab-cheat-sheet](https://github.com/hertie-data-science-lab/colab-cheat-sheet) | Google Colab guidelines for Hertie classes |
 | [distill-template](https://github.com/hertie-data-science-lab/distill-template) | Distill article template for student projects |
