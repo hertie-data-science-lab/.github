@@ -39,6 +39,7 @@ Each course has a persistent organisation containing all cohort delivery years.
 | Repo | Description |
 | --- | --- |
 | [teaching-toolkit](https://github.com/hertie-data-science-lab/dsl-teaching-toolkit) | E2e course delivery toolkit for faculty & TAs to run GitHub courses  |
+| [mds-onboarding](https://github.com/hertie-data-science-lab/mds-onboarding) | Pre-semester MDS onboarding [live site](https://hertie-data-science-lab.github.io/mds-onboarding/) |
 | [thesis-template-2026](https://github.com/hertie-data-science-lab/thesis-template-2026) | Unofficial Hertie thesis template (Typst) |
 | [colab-cheat-sheet](https://github.com/hertie-data-science-lab/colab-cheat-sheet) | Google Colab guidelines for Hertie classes |
 | [distill-template](https://github.com/hertie-data-science-lab/distill-template) | Distill article template for student projects |
