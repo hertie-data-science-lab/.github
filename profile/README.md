@@ -49,7 +49,7 @@ Projects the DSL co-develops with external partners:
 
 | Project | Description |
 | --- | --- |
-|[bertelsmannstift/pragmata](https://github.com/bertelsmannstift/pragmata) — a RAG system evaluation framework co-developed with the Bertelsmann Stiftung, released as an OSS tool available, with a full workflow, configs & glue scripts [here](https://github.com/hertie-data-science-lab/pragmata-workspace/tree/main)|
+|[bertelsmannstift/pragmata](https://github.com/bertelsmannstift/pragmata) | a RAG system evaluation framework co-developed with the Bertelsmann Stiftung, released as an OSS tool available, with a full workflow, configs & glue scripts [here](https://github.com/hertie-data-science-lab/pragmata-workspace/tree/main)|
 
 ---
 
